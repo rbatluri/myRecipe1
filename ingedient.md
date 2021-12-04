@@ -1,0 +1,6 @@
+-chicken
+-rice
+-masala
+-onions
+-coriander leaves
+-cloves
